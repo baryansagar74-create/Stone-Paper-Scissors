@@ -84,6 +84,7 @@ function App() {
           setUserChoice(null)
           setComputerChoice(null)
           setResult(null)
+          setScore({ user: 0, computer: 0 })
         }}>
           Play Again
         </button>
