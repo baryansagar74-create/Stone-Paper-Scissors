@@ -1,0 +1,4 @@
+/* Resetting App.css to avoid conflicts with index.css */
+.App {
+  width: 100%;
+}
